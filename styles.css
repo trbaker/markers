@@ -8,7 +8,6 @@ body {background-color: white;
   background-repeat: no-repeat; 
   z-index: -1;
   margin: 10px 10px;
-  position: absolute;
 }
 .marker {
   position: absolute;
